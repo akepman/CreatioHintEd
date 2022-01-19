@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="ru-RU">
+<Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="UsrKepmanHintEdv1" />
+			<Item Name="Caption" Value="boot" />
 		</Items>
 	</Group>
 </Resources>
