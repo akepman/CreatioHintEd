@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "856cecdf-2f8b-e97b-d528-d9dfa1b04ccd",
+    "Name": "KepmanHintEd",
+    "ModifiedOnUtc": "\/Date(1642612064000)\/",
+    "Maintainer": "Kepman",
+    "DependsOn": [
+      {
+        "UId": "abdb0c12-c22e-3aa2-e91c-cfc7502179c9",
+        "Name": "GKISLCRMCore"
+      }
+    ]
+  }
+}
